@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654837826228",
+    "firebase_url": "https://login-10011.firebaseio.com",
+    "project_id": "login-10011",
+    "storage_bucket": "login-10011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654837826228:android:8f264a5c18aecff3",
+        "android_client_info": {
+          "package_name": "com.mrenesinau.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654837826228-o558k5vm9tldkrefesfaip4ha84096ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrenesinau.login",
+            "certificate_hash": "69e977aad14235734e32892ecdcb4b8bda4362fd"
+          }
+        },
+        {
+          "client_id": "654837826228-gha2a8qgeos4l9bsubq2a5ia1m8f9oik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudDZa4BnF7RXAGCEjcfeqPqzG6WUK9LI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654837826228-gha2a8qgeos4l9bsubq2a5ia1m8f9oik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
